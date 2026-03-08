@@ -48,10 +48,17 @@
             "id": "49e87a9be6bc739b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -217,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49e87a9be6bc739b",
+  "active": "54d856e7c0c62501",
   "lastOpenFiles": [
+    "未命名.canvas",
     "2026-03-07_研究起點：AI輔助設計環境建置.md",
     "歡迎.md",
     "未命名.base"
