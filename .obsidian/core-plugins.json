@@ -17,11 +17,7 @@
   "slash-command": false,
   "editor-status": true,
   "bookmarks": true,
-<<<<<<< HEAD
-  "markdown-importer": true,
-=======
   "markdown-importer": false,
->>>>>>> a85e03f7d1eb60da1e677846944f359f48acdb4b
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,
