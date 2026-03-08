@@ -8,7 +8,7 @@
 		{"id":"c2cef82969e28572","x":-395,"y":-3160,"width":250,"height":60,"type":"text","text":"若遇狀況"},
 		{"id":"5e0461ff7d398b8b","x":-395,"y":-3060,"width":400,"height":76,"type":"file","file":"Pasted image 20260308114126.png"},
 		{"id":"a251229a28eed725","x":-395,"y":-2940,"width":400,"height":106,"type":"file","file":"Pasted image 20260308114415.png"},
-		{"id":"83e41b0273d06950","x":-117,"y":-3105,"width":400,"height":82,"type":"file","file":"Pasted image 20260308114706.png"}
+		{"id":"83e41b0273d06950","x":-395,"y":-2780,"width":400,"height":82,"type":"file","file":"Pasted image 20260308114706.png"}
 	],
 	"edges":[]
 }
