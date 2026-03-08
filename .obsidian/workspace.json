@@ -26,14 +26,17 @@
             "id": "54d856e7c0c62501",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2026-03-07_研究起點：AI輔助設計環境建置.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -3333.2250442504883,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-03-07_研究起點：AI輔助設計環境建置"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],
@@ -226,8 +229,8 @@
   },
   "active": "54d856e7c0c62501",
   "lastOpenFiles": [
-    "未命名.canvas",
     "2026-03-07_研究起點：AI輔助設計環境建置.md",
+    "未命名.canvas",
     "歡迎.md",
     "未命名.base"
   ]
