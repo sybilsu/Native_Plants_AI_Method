@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"7a5ad1c62a87b68b","x":-320,"y":-4060,"width":405,"height":50,"type":"text","text":"2026-03-08_研究起點：AI輔助設計環境 測試"}
-	],
-	"edges":[
-		{"id":"7b4d237d3c433a52","fromNode":"7a5ad1c62a87b68b","fromSide":"bottom","toNode":"a60e6a06a5b47f57","toSide":"top"}
-	]
-}
