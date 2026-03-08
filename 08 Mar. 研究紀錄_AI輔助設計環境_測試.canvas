@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"7a5ad1c62a87b68b","type":"text","text":"2026-03-08_研究起點：AI輔助設計環境 測試","x":-400,"y":-4460,"width":405,"height":50},
 		{"id":"25c26119e29ffa10","x":-400,"y":-4360,"width":522,"height":300,"type":"file","file":"Pasted image 20260308112509.png"},
-		{"id":"57b91a04fd1bcf78","x":-400,"y":-4040,"width":250,"height":60,"color":"1","type":"text","text":"第一次整理歷程"}
+		{"id":"57b91a04fd1bcf78","x":-400,"y":-4040,"width":250,"height":60,"color":"1","type":"text","text":"第一次整理歷程"},
+		{"id":"6764f5cf87056329","x":-395,"y":-3940,"width":400,"height":363,"type":"file","file":"Pasted image 20260308113503.png"}
 	],
 	"edges":[]
 }
