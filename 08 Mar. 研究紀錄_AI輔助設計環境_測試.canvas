@@ -1,15 +1,18 @@
 {
 	"nodes":[
 		{"id":"7a5ad1c62a87b68b","type":"text","text":"2026-03-08_研究起點：AI輔助設計環境 測試","x":-400,"y":-4460,"width":405,"height":50},
-		{"id":"25c26119e29ffa10","x":-400,"y":-4360,"width":522,"height":300,"type":"file","file":"Pasted image 20260308112509.png"},
-		{"id":"57b91a04fd1bcf78","x":-400,"y":-4040,"width":250,"height":60,"color":"1","type":"text","text":"第一次整理歷程"},
-		{"id":"6764f5cf87056329","x":-395,"y":-3940,"width":400,"height":363,"type":"file","file":"Pasted image 20260308113503.png"},
-		{"id":"f1a25685f95b339f","x":-395,"y":-3540,"width":400,"height":353,"type":"file","file":"Pasted image 20260308113704.png"},
-		{"id":"c2cef82969e28572","x":-395,"y":-3160,"width":250,"height":60,"type":"text","text":"若遇狀況"},
-		{"id":"5e0461ff7d398b8b","x":-395,"y":-3060,"width":400,"height":76,"type":"file","file":"Pasted image 20260308114126.png"},
-		{"id":"a251229a28eed725","x":-395,"y":-2940,"width":400,"height":106,"type":"file","file":"Pasted image 20260308114415.png"},
-		{"id":"83e41b0273d06950","x":-395,"y":-2780,"width":400,"height":82,"type":"file","file":"Pasted image 20260308114706.png"},
-		{"id":"154ee32ef56f77e1","x":-395,"y":-2640,"width":400,"height":289,"type":"file","file":"Pasted image 20260308114844.png"}
+		{"id":"25c26119e29ffa10","type":"file","file":"Pasted image 20260308112509.png","x":-400,"y":-4360,"width":522,"height":300},
+		{"id":"57b91a04fd1bcf78","type":"text","text":"第一次整理歷程","x":-400,"y":-4040,"width":250,"height":60,"color":"1"},
+		{"id":"6764f5cf87056329","type":"file","file":"Pasted image 20260308113503.png","x":-395,"y":-3940,"width":400,"height":363},
+		{"id":"f1a25685f95b339f","type":"file","file":"Pasted image 20260308113704.png","x":-395,"y":-3540,"width":400,"height":353},
+		{"id":"c2cef82969e28572","type":"text","text":"若遇狀況","x":-395,"y":-3160,"width":250,"height":60},
+		{"id":"5e0461ff7d398b8b","type":"file","file":"Pasted image 20260308114126.png","x":-395,"y":-3060,"width":399,"height":76},
+		{"id":"a251229a28eed725","type":"file","file":"Pasted image 20260308114415.png","x":-395,"y":-2940,"width":400,"height":106},
+		{"id":"83e41b0273d06950","type":"file","file":"Pasted image 20260308114706.png","x":-395,"y":-2780,"width":400,"height":82},
+		{"id":"778216a22fd3a039","type":"file","file":"Pasted image 20260308181420.png","x":-395,"y":-2280,"width":399,"height":129},
+		{"id":"97567a276ad9cef5","type":"text","text":"同步範圍限制：妳的 Git 推送 (Push) 只會包含 01_Notes 和 02_Plant_Database 的內容。因為 TEAMS 的更新訊息是連動 GitHub 的，既然 GitHub 上沒有論文資料，其他實驗室夥伴在 TEAMS 上就絕對看不到妳在 99_ 資料夾寫的任何字。","x":-395,"y":-2120,"width":400,"height":180},
+		{"id":"bab0b88c8befc574","type":"file","file":"Pasted image 20260308181930.png","x":-395,"y":-1900,"width":555,"height":200},
+		{"id":"154ee32ef56f77e1","type":"file","file":"Pasted image 20260308114844.png","x":-394,"y":-2660,"width":399,"height":289}
 	],
 	"edges":[]
 }
